@@ -48,6 +48,22 @@
 
       </header>
 
+      {% if site.resume_print_social_links %}
+      <!-- begin Print Social Links -->
+      <section class="content-section print-only">
+
+        <header class="section-header">
+          <h2>Social Links</h2>
+        </header>
+
+        <div class="resume-item">
+        {% include print-social-links.html %}
+        </div>
+
+      </section>
+      <!-- end Print Social Links -->
+      {% endif %}
+      
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
@@ -215,21 +231,9 @@
       <!-- end Links -->
       {% endif %}
 
-      {% if site.resume_print_social_links %}
-      <!-- begin Print Social Links -->
-      <section class="content-section print-only">
-
-        <header class="section-header">
-          <h2>Social Links</h2>
-        </header>
-
-        <div class="resume-item">
-        {% include print-social-links.html %}
-        </div>
-
-      </section>
-      <!-- end Print Social Links -->
-      {% endif %}
+      <footer class="page-footer">
+        <p class="footer-line">Thanks for visiting! | © 2024 Evelyn Park | Based on <a href="https://github.com/jglovier/resume-template">resume-template</a>.</p>
+      </footer>
 
     </div>
 
