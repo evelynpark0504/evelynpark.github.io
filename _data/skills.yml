@@ -1,6 +1,6 @@
 # Skills
 - skill: Languages & Tools
-  description: Python, SQL, R, Java, Scala, C/C++, Git, Docker, Kubernetes, Azure, AWS, GCP, Hadoop
+  description: Python, SQL, R, Java, Scala, C/C++, Git, Docker, Kubernetes, Azure, AWS, GCP, Hadoop, Spark, Kafka
 - skill: ML & AI
   description: TensorFlow, PyTorch, Keras, Scikit-Learn, LangChain, LLMs (from OpenAI, Meta and Amazon), NLP, CNNs, RNNs, XGBoost
 - skill: Data Analysis & Visualization
