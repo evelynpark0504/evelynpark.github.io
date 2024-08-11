@@ -3,28 +3,28 @@
   company: NeuroSoph Development Inc.
   location: Edmonton, AB, Canada
   duration: Jun, 2023 &mdash; Jul, 2024
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>Conducted research and comparisons of state-of-the-art large language models (LLMs) to identify optimal solutions for various applications.</li><li>Leveraged AWS cloud infrastructure for training and deploying LLMs, implementing data sampling techniques to train models efficiently.</li><li>Analyzed user data to extract actionable insights and authored detailed reports based on observations to inform decision-making and strategy.</li></ul>
 
 - position: Production Service Technician Intern
   company: Sony Pictures Imageworks
   location: Vancouver, BC, Canada
   duration: Jul, 2022 &mdash; Aug, 2022
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: <ul class="resume-item-list"><li>Examined production pipelines to determine the most effective methods for handling renderings.</li><li>Wrote Python and shell scripts to improve workflow effectiveness based on a solid understanding of image data.</li></ul>
 
 - position: Graduate Research Assistant
   company: University of Alberta
   location: Edmonton, AB, Canada
   duration: Sept, 2021 &mdash; Jun, 2022
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: <ul class="resume-item-list"><li>Conducted intensive self-study on previous work and state-of-the-art models to develop novel methods for student pathway analysis.</li><li>Utilized various development tools such as Python, Keras, SQL, etc., with different operating systems to create models and analyze results.</li></ul>
 
 - position: Artificial Intelligence Developer
   company: TexTory
   location: Seoul, South Korea
   duration: Jan, 2019 &mdash; Aug, 2021
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: <ul class="resume-item-list"><li>Achieved 98% accuracy in Sound to Text LSTM Model and provided exceptional AI service using AWS and GCP.</li><li>Collaborated with the National Train Service Company in South Korea to develop a sign language application for the hearing-impaired</li><li>Created a dashboard using Elk Stack to analyze logs, significantly improving colleagues' work environments.</li></ul>
 
 - position: Undergraduate Research Assistant
   company: Research Institute of Korean Studies
   location: Seoul, South Korea
   duration: Dec, 2015 &mdash; Feb, 2016
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: <ul class="resume-item-list"><li>Performed on-site field surveys and wrote technical narratives to document processes.</li><li>Implemented R programming for a consistent approach and results, enabling automation of research.</li></ul>
