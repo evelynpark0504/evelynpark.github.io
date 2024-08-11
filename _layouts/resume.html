@@ -84,6 +84,27 @@
       <!-- end Links -->
       {% endif %}
 
+      {% if site.resume_section_experience %}
+      <!-- begin Experience -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Experience</h2>
+        </header>
+
+        {% for job in site.data.experience %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ job.position }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.company }} &bull; {{ job.duration }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ job.location }} </h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Experience -->
+      {% endif %}
+
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
@@ -100,26 +121,6 @@
 
       </section>
       <!-- end Skills -->
-      {% endif %}
-
-      {% if site.resume_section_experience %}
-      <!-- begin Experience -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Experience</h2>
-        </header>
-
-        {% for job in site.data.experience %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.position }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.company }} &bull; {{ job.location }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
-        </div><!-- end of resume-item -->
-        {% endfor %}
-
-      </section>
-      <!-- end Experience -->
       {% endif %}
 
       {% if site.resume_section_education %}
