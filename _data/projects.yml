@@ -1,16 +1,26 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Student Pathway Analysis
+  role: Python, Keras, SQL, Git
+  duration: 2021 &mdash; 2023
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Implemented machine learning models to predict each student’s future success based on given datasets.</li><li>Wrote and executed SQL queries to analyze student cluster outcomes using the k-Mode algorithm.</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Privacy-Preserving LM for sentiment analysis 
+  role: Python, Pytorch, Opacus, Git
+  duration: 2021
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Employed BERT model with Opacus layer to preserve the sentimental privacy of Twitter users in sensitive situations like COVID-19.</li><li>Developed a novel method that protects user privacy without compromising the model’s performance.</li></ul>
+
+- project: CNNs Based Answer Sentence Selection
+  role: Python, Pytorch, Git
+  duration: 2018
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Implemented multi-headed attention to CNNs, enabling the model to analyze questions autonomously.</li></ul>
+
+- project: Compare and Analysis of ML Algorithms
+  role: Python, Jupyter Notebook, Keras
+  duration: 2017
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Applied various machine learning algorithms to a dataset to determine the most optimized algorithms.</li></ul>
