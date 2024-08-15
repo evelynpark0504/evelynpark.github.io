@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Evelyn S. Park"
-resume_title:                   "Data Scientist"
+resume_title:                   "Data Scientist/Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "evelynpark050@gmail.com"
