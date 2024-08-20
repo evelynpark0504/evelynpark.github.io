@@ -3,7 +3,7 @@
   company: NeuroSoph Development Inc.
   location: Edmonton, AB, Canada
   duration: Jun, 2023 &mdash; Jul, 2024
-  summary: <ul class="resume-item-list"><li>Conducted research and comparisons of state-of-the-art large language models (LLMs) to identify optimal solutions for various applications.</li><li>Leveraged AWS cloud infrastructure for training and deploying LLMs, implementing data sampling techniques to train models efficiently.</li><li>Analyzed user data to extract actionable insights and authored detailed reports based on observations to inform decision-making and strategy.</li></ul>
+  summary: <ul class="resume-item-list"><li>Researched and compared state-of-the-art large language models (LLMs) to identify optimal solutions, and fine-tuned a smaller model to significantly enhance its performance, achieving results comparable to larger models.</li><li>Leveraged AWS cloud infrastructure for developing and deploying Retrieval-Augmented Generation (RAG) chatbots based on LLMs, implementing data sampling techniques to train models efficiently.</li><li>Analyzed user data to extract actionable insights and authored detailed reports based on observations to inform decision-making and strategy.</li></ul>
 
 - position: Production Service Technician Intern
   company: Sony Pictures Imageworks
